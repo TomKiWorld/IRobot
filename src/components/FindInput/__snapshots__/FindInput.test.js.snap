@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FindInput Component Expect to render FindInput Component 1`] = `ShallowWrapper {}`;

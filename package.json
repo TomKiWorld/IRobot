@@ -1,0 +1,52 @@
+{
+  "name": "irobot",
+  "version": "0.1.0",
+  "author": "TomKiWorld",
+  "description": "Playground App for searching, testing and PWA",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomKiWorld/IRobot"
+  },
+  "homepage": "https://tomkiworld.github.io/IRobot/",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "cover": "npm test -- --coverage --watchAll"
+  },
+  "dependencies": {
+    "gh-pages": "^3.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-scripts": "^3.4.1",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "tachyons": "^4.12.0",
+    "typescript": "^3.9.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "nock": "^12.0.3",
+    "redux-mock-store": "^1.5.4"
+  }
+}

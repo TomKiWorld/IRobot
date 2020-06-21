@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PersonalImage Component Expect to render PersonalImage Component 1`] = `ShallowWrapper {}`;

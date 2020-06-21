@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Personal Component Expect to render Personal Component 1`] = `ShallowWrapper {}`;
+
+exports[`Personal Component Expect to render Personal Component with name 1`] = `ShallowWrapper {}`;
