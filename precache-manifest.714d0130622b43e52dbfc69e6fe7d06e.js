@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb42371d1c45a3909855d495b186010f",
+    "revision": "160ac555bc5db581e117b1b4a04ff7c4",
     "url": "/IRobot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IRobot/static/css/2.50b8dffa.chunk.css"
   },
   {
-    "revision": "28af744e737e3725c11b",
+    "revision": "cac8aa916c8db1be556b",
     "url": "/IRobot/static/css/main.3228af54.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IRobot/static/js/3.7c0c0d42.chunk.js"
   },
   {
-    "revision": "28af744e737e3725c11b",
-    "url": "/IRobot/static/js/main.f547febb.chunk.js"
+    "revision": "cac8aa916c8db1be556b",
+    "url": "/IRobot/static/js/main.ce26666b.chunk.js"
   },
   {
     "revision": "aee1b7a965f3697f17b8",

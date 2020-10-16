@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IRobot/precache-manifest.7f651abc4d68ca82333025a01533cc39.js"
+  "/IRobot/precache-manifest.714d0130622b43e52dbfc69e6fe7d06e.js"
 );
 
 self.addEventListener('message', (event) => {

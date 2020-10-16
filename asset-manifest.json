@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/IRobot/static/css/main.3228af54.chunk.css",
-    "main.js": "/IRobot/static/js/main.f547febb.chunk.js",
-    "main.js.map": "/IRobot/static/js/main.f547febb.chunk.js.map",
+    "main.js": "/IRobot/static/js/main.ce26666b.chunk.js",
+    "main.js.map": "/IRobot/static/js/main.ce26666b.chunk.js.map",
     "runtime-main.js": "/IRobot/static/js/runtime-main.1de14709.js",
     "runtime-main.js.map": "/IRobot/static/js/runtime-main.1de14709.js.map",
     "static/css/2.50b8dffa.chunk.css": "/IRobot/static/css/2.50b8dffa.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.7c0c0d42.chunk.js": "/IRobot/static/js/3.7c0c0d42.chunk.js",
     "static/js/3.7c0c0d42.chunk.js.map": "/IRobot/static/js/3.7c0c0d42.chunk.js.map",
     "index.html": "/IRobot/index.html",
-    "precache-manifest.7f651abc4d68ca82333025a01533cc39.js": "/IRobot/precache-manifest.7f651abc4d68ca82333025a01533cc39.js",
+    "precache-manifest.714d0130622b43e52dbfc69e6fe7d06e.js": "/IRobot/precache-manifest.714d0130622b43e52dbfc69e6fe7d06e.js",
     "service-worker.js": "/IRobot/service-worker.js",
     "static/css/2.50b8dffa.chunk.css.map": "/IRobot/static/css/2.50b8dffa.chunk.css.map",
     "static/css/main.3228af54.chunk.css.map": "/IRobot/static/css/main.3228af54.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.50b8dffa.chunk.css",
     "static/js/2.70d797dd.chunk.js",
     "static/css/main.3228af54.chunk.css",
-    "static/js/main.f547febb.chunk.js"
+    "static/js/main.ce26666b.chunk.js"
   ]
 }
