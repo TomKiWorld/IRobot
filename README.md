@@ -1,22 +1,13 @@
-# IRobot 
-![IRobot](https://robohash.org/4H1.png?size=200x200)
+# IRobot ![IRobot](https://robohash.org/4H1.png?size=40x40)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Preview
+https://tomkiworld.github.io/IRobot/
 
+## Usage 
+A fun [React](https://github.com/facebook/create-react-app) exercise connection to the [Robohash API](https://robohash.org/) which provides robot images and  the [jsonplaceholder API](https://jsonplaceholder.typicode.com/users) to fetch users data.
 
+Uses [Circleci](https://circleci.com/) to test builds on commits.
 
-The App uses the [jsonplaceholder API](https://jsonplaceholder.typicode.com/users) to get users and [Robohash API](https://robohash.org/) to get robot images.
-
-## What is it for?
-Search a robot and find your personal robot.
-
-1. Communication with API endpoints.
-2. Redux.
-3. Progressive web app implementation
-4. Circleci testing
-
-## How to set it up?
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+## Local setup
+After cloning the project, run `npm install` to download the packages followed by `npm start` to launch the site locally.
    

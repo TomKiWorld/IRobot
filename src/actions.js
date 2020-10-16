@@ -7,7 +7,7 @@ import {
   SET_NAME
 } from './constants';
 
-export const setSearchField = (text) => ({ type: CHANGE_SEARCH_FIELD, payload: text });
+export const setSearchField = text => ({ type: CHANGE_SEARCH_FIELD, payload: text });
 
 export const requestRobots = () => (dispatch) => {
   dispatch({ type: REQUEST_ROBOTS_PENDING });
@@ -17,6 +17,6 @@ export const requestRobots = () => (dispatch) => {
     .catch(error => dispatch({ type: REQUEST_ROBOTS_FAILED, payload: error }))
 };
 
-export const setRoute = (text) => ({ type: CHANGE_ROUTE, payload: text });
+export const setRoute = text => ({ type: CHANGE_ROUTE, payload: text });
 
-export const setName = (text) => ({ type: SET_NAME, payload: text });
+export const setName = text => ({ type: SET_NAME, payload: text });

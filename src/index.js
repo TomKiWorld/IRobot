@@ -14,8 +14,15 @@ import 'tachyons';
 import './index.css';
 
 const logger = createLogger();
+
+const middlewares = [ thunkMiddleware ];
+
+if (process.env.NODE_ENV === 'development') {
+  middlewares.push(logger)
+}
+
 const rootReducer = combineReducers({searchRobots, requestRobots, setRoute, setName})
-const store = createStore( rootReducer, composeWithDevTools(applyMiddleware(thunkMiddleware, logger)));
+const store = createStore( rootReducer, composeWithDevTools(applyMiddleware(...middlewares)));
 
 ReactDOM.render(
   <Provider store={store}>
